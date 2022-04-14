@@ -1,0 +1,22 @@
+<annotation>
+	<folder>Pin_detection</folder>
+	<filename>000172.jpg</filename>
+	<size>
+		<width>848</width>
+		<height>848</height>
+		<depth>3</depth>
+	</size>
+		<segmented>0</segmented>
+	<object>
+		<name>slope</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>331.19298245614027</xmin>
+			<ymin>333.3333333333333</ymin>
+			<xmax>595.2280701754385</xmax>
+			<ymax>518.4210526315788</ymax>
+		</bndbox>
+	</object>
+</annotation>
